@@ -99,7 +99,7 @@ npm start
 
 ## 📞 Contact
 
-- **Email**: info@toxictrace.com
+- **Email**: uzasz@toxictrace.com.mx
 - **Location**: Berlin, Germany
 - **Phone**: +1 (555) 123-4567
 

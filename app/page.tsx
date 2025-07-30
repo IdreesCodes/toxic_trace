@@ -894,15 +894,16 @@ const Footer = () => {
             <ul className="space-y-4 text-base text-gray-300">
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-cyan-400" />
-                <span>info@toxictrace.com</span>
+                <span>uzasz@toxictrace.com.mx</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-cyan-400" />
-                <span>+1 (555) 123-4567</span>
+                <span>+92 341 8877181</span>
               </li>
               <li className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-cyan-400" />
-                <span>Berlin, Germany</span>
+                <span>Office no. 1251(E-block), Al-Kabeer Town,
+                Phase-2, Riwand road, Lahore.</span>
               </li>
             </ul>
           </div>
