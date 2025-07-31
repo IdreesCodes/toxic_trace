@@ -277,7 +277,7 @@ const HeroSection = () => {
             className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto"
           >
             <div className="text-center">
-              <div className="text-2xl md:text-3xl font-bold text-blue-400 mb-2">21+</div>
+              <div className="text-2xl md:text-3xl font-bold text-blue-400 mb-2">29+</div>
               <div className="text-gray-400 text-sm md:text-base">Drugs Detected</div>
             </div>
             <div className="text-center">
@@ -390,7 +390,7 @@ const ProductSection = () => {
   const features = [
     {
       icon: <TestTube className="w-8 h-8" />,
-      title: "Detects 21+ Drugs",
+      title: "Detects 29+ Drugs",
       description: "Covers priority drug residues including opioids, stimulants, cannabinoids, and synthetic drugs",
       gradient: "from-cyan-400 to-blue-400"
     },
