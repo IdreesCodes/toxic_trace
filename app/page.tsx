@@ -490,12 +490,7 @@ const TeamSection = () => {
       description: "Oversees financial operations, budgeting, resource allocation, and sustainability, ensuring cost-effectiveness and compliance with global funding standards.",
       image: "/team/zeeshan Abbas.jpg"
     },
-    {
-      name: "MUHAMMAD SALMAN",
-      role: "IT DIRECTOR",
-      description: "Manages IT infrastructure, app development, and web platforms, ensuring seamless digital operations and user experience.",
-      image: "/team/Muhammad Salman.JPG"
-    },
+
     {
       name: "ZESHAN YOUNAS ABBASI",
       role: "SALES DIRECTOR",
@@ -533,7 +528,7 @@ const TeamSection = () => {
           </p>
         </motion.div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {team.map((member, index) => (
             <motion.div
               key={index}
